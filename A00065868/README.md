@@ -2,7 +2,7 @@
 
 **Nombre:** Ana Valderrama    
 **Código:** A00065868  
-**Github URL:** https://github.com/AnaValderrama25/so-workshop2/edit/A00065868/workshop2/A00065868/README.md  
+**Github URL:** https://github.com/AnaValderrama25/so-workshop2/tree/A00065868/workshop2/A00065868  
 
 ## Descripción
 
