@@ -6,7 +6,7 @@
 
 ## Descripción
 
-En este taller, las referencias hicieron posible un rápido repaso de la historia de los sistemas operativos. Desde una máquina 'desnuda' robusta, pasando por agrupación de tareas, haciendo más eficiente su ejecución, y la aparición de los sitemas operativos capaces de administrar los diferentes procesos hasta los computadores personales y la aparición de multiprocesadores muy eficientes. 
+En este taller, las referencias hicieron posible un rápido repaso de la historia de los sistemas operativos. Desde una máquina 'desnuda' robusta, pasando por agrupación de tareas, haciendo más eficiente su ejecución, y la aparición de los sistemas operativos capaces de administrar los diferentes procesos que se ejecutan al mismo tiempo, hasta los computadores personales y la aparición de multiprocesadores muy eficientes. 
 
 ## Referencias
 
